@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyWatchApp</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="goto_next">Go To Next Screen</string>
+    <string name="title_activity_next">NextActivity</string>
+    <string name="next_label">welcometothenextlevel</string>
+</resources>
